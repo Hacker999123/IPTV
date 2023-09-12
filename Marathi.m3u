@@ -1,22 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="47890" tvg-name="Marathi Zee Marthi HD" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/ZEEMARTH2.png",Marathi Zee Marthi HD
-http://212.224.84.217:2200/R-EX/MARATHI_ZEE_MARTHI_HD-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png" group-title="News",News18 Lokmat 
+https://serverbackupchannel.xyz/jiotvchannel/app/live/232/FREOTV/index.m3u8
 
-#EXTINF:-1 tvg-id="47891" tvg-name="Marathi Colors HD" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",Marathi Colors HD
-http://212.224.84.217:2200/R-EX/MARATHI_COLORS_MARATHI_HD-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Marathi_HD.png" group-title="Entertainment",Zee Marathi HD 
+https://serverbackupchannel.xyz/jiotvchannel/app/live/1360/FREOTV/index.m3u8
 
-#EXTINF:-1 tvg-id="51260" tvg-name="Marathi Colors FHD" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/MARATCOLORS.png",Marathi Colors FHD
-http://212.224.84.217:2200/R-EX/FHD_MARATHI_COLORS_-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Marathi_HD.png" group-title="Entertainment",Colors Marathi HD 
+https://serverbackupchannel.xyz/jiotvchannel/app/live/755/FREOTV/index.m3u8
 
-#EXTINF:-1 tvg-id="47889" tvg-name="Marathi Zee Talkies HD" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/zeetalkies.png",Marathi Zee Talkies HD
-http://212.224.84.217:2200/R-EX/MARATHI_ZEE_TALKIES_HD-pa/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_24_Taas.png" group-title="News",Zee 24 Taas 
+https://serverbackupchannel.xyz/jiotvchannel/app/live/442/FREOTV/index.m3u8
 
-#EXTINF:-1 tvg-id="47888" tvg-name="Marathi Star Parvah HD" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/Star_Pravah_2019.png",Marathi Star Parvah HD
-http://212.224.84.217:2200/R-EX/MARATHI_STAR_PARVAH_HD-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
-
-#EXTINF:-1 tvg-id="47892" tvg-name="Marathi Sony" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/SONYMARATH.png",Marathi Sony
-http://212.224.84.217:2200/R-EX/MARATHI_SONY_MARATHI_-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
-
-#EXTINF:-1 tvg-id="51174" tvg-name="Shemaroo Marathibana" group-title="Marathi" tvg-logo="http://files.rednetcontent.com/chlogo2/indian/shemaroo-marathi-bana-in.png",Shemaroo Marathibana
-http://212.224.84.217:2200/R-EX/SHEMAROO_MARATHIBANA-in/tracks-v1a1/mono.m3u8?token=DenverIPTV[User-agent=REDLINECLIENT]
+#EXTINF:1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABP_Majha.png" group-title="News",ABP Majha 
+https://serverbackupchannel.xyz/jiotvchannel/app/live/612/FREOTV/index.m3u8
